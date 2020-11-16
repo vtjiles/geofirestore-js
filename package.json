@@ -52,7 +52,7 @@
     "README.md"
   ],
   "dependencies": {
-    "geofirestore-core": "^4.1.2"
+    "geofirestore-core": "https://github.com/vtjiles/geofirestore-core.git#feat-firebase8"
   },
   "devDependencies": {
     "@rollup/plugin-node-resolve": "^8.0.1",
